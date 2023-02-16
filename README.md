@@ -1,3 +1,9 @@
+# cumbird
+
+totally not a flappy bird clone i swear
+
+![gameplay](https://files.catbox.moe/kvy7a9.gif)
+
 ## Lore
 In the mystical land of Cumland, a bird named Cum has been the subject of ridicule due to his phallic appearance. Despite being an outcast among his fellow feathered friends, Cum possesses a unique skill: dodging towers.
 As the legend goes, in the heart of Cumland stands a tower that none have ever managed to evade. But Cum has been able to masterfully navigate through its perilous obstacles, earning the attention of none other than Tucker Carlson, a renowned judge from the esteemed Fox News.
